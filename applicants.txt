@@ -1,0 +1,810 @@
+Nguyen,       Quest ,     3.75,      470,    800, 0,Carnegie Mellon University
+George,         Brylea ,1.56,      660, 800,   2,   North Carolina State University, SSD, USENIX Symposium on Internet Technologies and Systems
+Kelly ,        Mei-Ling,   2.44,      630, 800,      0,      Purdue University-West Lafayette
+Wright,        Redrick ,         2.62, 630,      800,0,     North Carolina State University
+Love,      Faracy, 2.20,  800,    800,    1,     University of Pennsylvania, VLDB Journal
+White ,         Bayani,    3.72, 580,770,   0,   University of California-Los Angeles
+Jefferson ,   Keveronique,  3.46,  650,  800, 0, University of Colorado-Boulder
+Meyer,         Garreth,        3.42,    620,  800,0,     Johns Hopkins University
+Peters ,    Dash ,     3.16,     690,   790,0,      Ohio State University
+Daniel,       Laban,       3.56,     550, 780,     0,  University of Delaware
+Simmons ,    Amiya ,    3.63,    590,    630,  0,     Ohio State University
+Osborne,      Tana,        2.44,     490,      720,   0,Massachusetts Institute of Technology
+Marshall,  Rombert ,         2.30,     670,    790,      0, University of Florida
+Hubbard,         Essex ,    2.68, 320,  780,   0,  Boston University
+Glover ,       Adao ,        2.86,    540,     800,  0,   University of Washington
+Wilson,    Quest,3.94,      400,   800, 0,     Iowa State University
+Roberson,Essex ,3.23,490,     730,  0,   Yale University
+Harper,   Ha'ani,     3.22,  350,     770,     0,     Texas A&M University-College Station
+Francis ,      Bida, 1.84,   520,     800,  0, University of Florida
+Wood ,    Piero,      1.52,    520,  760, 0,  Purdue University-West Lafayette
+Gibson ,         Ha'ani ,   3.70, 570,    780,  0, Purdue University-West Lafayette
+Hanson,     Asha ,     2.40,   310, 800,      2,    University of Washington, ISMM, Symposium on Testing
+Harmon,   Malachi ,        2.80,    520,800, 2,    University of Wisconsin-Madison, WebDB, ACM Multimedia
+Perkins,    Laban, 2.56,  520,    790,   1,   Carnegie Mellon University, J. Algorithms
+Morgan ,   Odilia ,    3.00,620,760, 0,  Columbia University
+Hodges,         Piero ,   1.50,  640,      800,   0,   Lehigh University
+Fisher,       Mandalay,     3.98, 620,   800,0,  University of Delaware
+Barton ,   Vendel,1.66, 500,    680,0,University of California-Irvine
+Flowers ,        Tana,  2.32, 380,     790,      2,     University of California-Berkeley, Journal of Automated Reasoning, CHI
+Gilbert,      Leda , 3.81,580,     800,  0,     Iowa State University
+Walters ,     Serenade ,     2.98,   570,      790,      0,   Northwestern University
+Fletcher,   Talfryn ,       3.80,    400,     800,  0, University of Washington
+Barnes ,    Redrick ,   2.46, 660,     800,    0,    Carnegie Mellon University
+Brown,  Javid , 2.60,   610,    780,     0, Rensselaer Polytechnic Institute
+Sims,  Madrigal,      3.32,  770, 770,      0,   Cornell University
+Frank,       Adai ,  3.47,480,      800,      0,   University of Michigan-Ann Arbor
+Mcgee ,       Aria ,3.59,      410, 710,     0,   Yale University
+Mccoy ,      Kerah,  1.82,     670,  730,0,     Arizona State University
+Austin,Caelan,         3.73,    610,   800,   2, University of Minnesota-Twin Cities, Mathematical Structures in Computer Science, Computational Linguistics
+Briggs ,         Viveca,        3.99,570,     760,    2, Pennsylvania State University-University Park, IEEE Visualization, PPCP
+Fuller,    Ilima ,  1.80,240,800,  0, Boston University
+Schultz, Hakan ,       3.66,430,     800,  0,      University of Maryland-College Park
+Crawford, Rombert, 3.98,    640,   770, 0,      Case Western Reserve University
+Willis ,    Bryer ,2.08,660,  800,      0,     Iowa State University
+Briggs , Kayani,         3.64,      700,     780,      0, Rutgers State University-New Brunswick
+Curry ,         Allulah , 1.90, 520,   780,      0,     University of Rochester
+Fletcher ,       Talasi,   3.44,  490,    790,0,      University of Southern California
+Coleman,      Phoenix,        2.84,      590,  790,     0,      University of California-Irvine
+Bates ,     Jonzelle, 2.46,     580, 800,   0,University of Rochester
+Schultz,    Tano,     1.96,   680,  790,     0,Georgia Institute of Technology
+Robertson,         Hoa, 3.24,     580,     800, 0,  University of Virginia
+Lane,    Cabell ,3.66,  720,800, 0,   Duke University
+George ,      Rangi ,         3.70,    500,     730,     0,     Northwestern University
+Edwards,     Sopan ,3.32,   370,    780,   0,      Northwestern University
+Washington ,  Jonzelle,   3.93,    590,      790,   1,     University of California-Santa Barbara, AIPS
+Mason, Hakan,      3.49,   640, 790,     0,     University of Wisconsin-Madison
+Clayton,        Kalah,         3.89,790,      800, 0, University of Rochester
+Matthews , Langidrik,2.83,710,     800,    0,University of Rochester
+Lopez ,Keveronique , 1.58,     550,   800,     0,Iowa State University
+Baldwin,     Tano ,      3.61,     610,800,     0,      University of Delaware
+Douglas ,      Eunae,        3.90,      550,      800,      0,     Ohio State University
+Becker,     Essex,       2.38,  230,740,    0,Stanford University
+Watts,       Usman,        3.50,     580,  780,    2, Massachusetts Institute of Technology, OODBS, ISSTA
+Maxwell , Farida,       3.10,  460,   740, 1,     Columbia University, OODBS
+Daniel,         Heave ,   3.99, 350, 800,    0,      University of Washington
+Goodwin ,        Mandalay,3.07,  320,      790,      0,    University of California-Santa Barbara
+Moody,         Eithne,  2.42, 670,      760,     1,     Johns Hopkins University, ACM Multimedia
+Sanchez,      Dainagon ,  2.36,    390,     770,     0,    Vanderbilt University
+Mclaughlin ,     Kalah ,        1.98,    480,  800,   0, Washington University in St. Louis
+Castillo ,     Bryer,        3.68,    670, 770,     1,Massachusetts Institute of Technology, ML
+Payne,Isa ,   2.81,260,720,0,     University of Florida
+Douglas,       Peregrin,      3.84,    380,   800, 2,    University of Florida, Learning for Natural Language Processing, PDIS
+Osborne,   Dainagon,   3.09,   330,760,      0,    Rensselaer Polytechnic Institute
+Gilbert,        Warlita ,    1.74,    680,   800,    0,University of Florida
+Dean ,  Shabnam,      2.00,      700,     780,  0, Dartmouth College
+Wolfe,     Jonzelle ,   3.84,      590,    800,      1, University of Maryland-College Park, TOCS
+Frank ,      Wayan ,        2.92,      400,    800,   1,     University of Illinois-Urbana-Champaign, ICLP/SLP
+Vega ,    Kerah,  3.32,   460,   800,  2, Dartmouth College, PDIS, ISSTA
+Wright ,Mandalay,     3.80,  350,  710,   0,      Cornell University
+Clayton,  Leda,       3.01,    460,   800,  0,Massachusetts Institute of Technology
+Sandoval, Callum,    3.74,250, 760, 1,    University of Southern California, Mathematical Structures in Computer Science
+Nguyen,    Aria ,        3.40, 610,  740,   0,     University of Southern California
+Becker,     Lewin,         3.92,    470,      800,0, Princeton University
+Hale ,    Malem,       1.94, 380, 800,   0,      Rice University
+Austin, Eben,   2.66,420,   800,     0,      University of Michigan-Ann Arbor
+Guzman ,         Adai,        3.72,   560,     800,     0, Rensselaer Polytechnic Institute
+Willis ,         Keala ,        3.40,     330, 790,  0,    Dartmouth College
+Peters ,      Tau,   3.33, 600,  800,    0, University of California-Irvine
+White,       Sage,3.74,      630, 800, 0,    University of Illinois-Urbana-Champaign
+Saunders,     Piero ,     3.40, 520,  770,    2,  Ohio State University, Structure in Complexity Theory Conference, DAC
+Yates,   Yorath,     1.74,640,  800,      2, Vanderbilt University, IEEE Journal on Selected Areas in Communications, Artificial Life
+Roberson ,      Kiernan,  2.48,   430,   790,      2,  University of Virginia, ESORICS, CSCW
+Lawrence,Ulrike,   2.48,  510,800,      0, University of California-San Diego
+Mack,Adao,      2.10,320,   770,     0,   Rensselaer Polytechnic Institute
+Stewart ,      Asha,        3.50,      630,  800,0,      Stanford University
+Brown,        Mei-Ling , 1.80,400, 770,      0, Ohio State University
+Holt, Bayani,  3.10, 300, 800,     0,   Johns Hopkins University
+Hodges,         Sanjay ,     3.10,    310,   730,   2,    University of Illinois-Urbana-Champaign, Computational Geometry, SAS
+Hunt,     Brylea ,     3.73,    550,     780,   2,      University of California-Berkeley, HPCA, ACM Computing Surveys
+Harrison , Kincaid,      3.30,    530,   800,      0,      Virginia Tech
+Christensen ,    Achina,   2.98,      750,790,  0, University of California-Irvine
+Gardner,       Bida, 3.48,   510, 800, 2, Columbia University, Mobile Agents, Information Hiding
+Simon ,  Keishin ,    2.73,  310,  800,  2,    California Institute of Technology, COLT, Financial Cryptography
+Chavez ,       Cabell ,     2.80,   420,    800,  1,   Washington University in St. Louis, WWW9 / Computer Networks
+Mcdaniel ,      Eithne ,     1.74,     720, 790, 2,     University of California-Berkeley, ACM Transactions on Graphics, Artificial Intelligence
+Mitchell ,         Jonzelle ,        1.62,480,800,     1,      University of California-Davis, IWDOM
+Tate,    Keveronique,   3.80,  450,     800,    0,  University of Pennsylvania
+Pierce ,   Bida,    3.00,    320,  760,      2,   Pennsylvania State University-University Park, VVS, PPSN
+Vaughn, Brylea,  2.54, 400,   800,      2,     Carnegie Mellon University, ECCV, EWSL
+Thompson,     Ireri,        2.76,      410,     640,     2,     University of Michigan-Ann Arbor, DBPL, ICML
+Olson ,      Talasi ,     3.50,   490,      680,0,  Vanderbilt University
+Flowers,         Brogan,         2.54,380,    650,    0,   Georgia Institute of Technology
+Morrison, Kalah,        2.56,      580,  720,     0, Cornell University
+Jenkins ,       Rombert,3.70,    610,800,    1,    University of Wisconsin-Madison, Computing Systems
+Saunders ,        Hakan, 1.54,     650, 800, 2,    University of Virginia, Storage and Retrieval for Image and Video Databases, REX Workshop
+Berry,   Phoenix,  3.00,   520, 750,    1,  Stanford University, IEEE Transactions on Visualization and Computer Graphics
+Graham , Zoltan ,    3.14,  390,    800,     0,   Massachusetts Institute of Technology
+Weaver ,    Delen , 3.20,580,  610,     0,     University of Delaware
+Morrison,       Keveronique ,    2.14,500,   740,  0,Ohio State University
+Rivera,      Zoltan, 2.26,    390,      800,0,   Harvard University
+Todd ,    Malachi,2.78, 330,   800,    2,  University of Washington, SLP, J. Algorithms
+Rios,         Galina ,      2.68,590,   770,   0,  Purdue University-West Lafayette
+Mclaughlin ,     Langidrik ,         3.44, 580,     730,      0,      University of Illinois-Urbana-Champaign
+Hammond,    Hoa,   3.85,    560,    740,   0,   Arizona State University
+Chavez,         Adai ,        2.54,  640,    800,2,     University of Southern California, MICRO, ISMM
+Johnston ,     Serenade ,  1.50,  670,      780, 1,    Rensselaer Polytechnic Institute, OOPSLA
+Cole,         Talasi ,       3.09,      350,      760,   0,   Pennsylvania State University-University Park
+Poole ,   Quest,     2.36,    670,  800,   1,   University of Michigan-Ann Arbor, IEEE Visualization
+Tucker ,Callum,       2.28,600,     800,    2,Vanderbilt University, TISSEC, NMR
+Wheeler,       Xanthe,       2.36,   670,800,   2,  Ohio State University, TOSEM, TOSEM
+Reid ,      Oldak ,      1.96, 520,    790,  0, Georgia Institute of Technology
+Parks ,        Farida,     1.58,    690,      790,  0, Boston University
+Rodriquez ,Bryer ,      4.00,     770, 800,    0,     Cornell University
+Norton,       Pike ,  2.95,     570,   800,  0,   Northwestern University
+Rodgers,         Rombert,   3.36,   630,    790,   0,  Arizona State University
+Dunn ,  Quaintance , 3.70,      340,      740, 0,     University of Rochester
+Spencer ,         Heave,        1.80,      570,    800,    0,   Cornell University
+Drake,   Achina, 3.50,    600,800, 2,  University of California-Irvine, IEEE Transactions on Pattern Analysis and Machine Intelligence, ACM SIGOPS European Workshop
+Wagner ,  Florenzo,       2.52, 590,790,0, Cornell University
+Cannon,         Talasi,      2.96,600, 750,  0, Princeton University
+Rice ,  Farida ,      1.82,     520,780,     0,     Cornell University
+Moody ,        Mashequila,        3.28,      410,    800,      0,Purdue University-West Lafayette
+Bell,        Xanthe ,     2.34,  610,800,   2,University of Pennsylvania, SC, STOC
+Martinez,      Mandalay,        3.28, 550,  790,     0,Rutgers State University-New Brunswick
+Lopez ,        Ireri,  3.76, 400, 800,   0,     University of Southern California
+Craig ,     Garreth ,      2.38,    430,      790,  0,     Stanford University
+Evans,   Amiya ,3.97,610,     790,    2,     Princeton University, ACM Multimedia, Storage and Retrieval for Image and Video Databases
+Fisher,   Mei-Ling,      1.56,      290,      760,  2,Northwestern University, Machine Learning, TLCA
+Salazar ,        Shabnam,     3.60,    360,  760,  1,University of California-San Diego, Workshop on the Management of Replicated Data
+Gomez ,         Leda , 2.92, 320,   780,   1, University of Michigan-Ann Arbor, NMR
+Roberts,         Sage,  3.69,650,   800, 2,  University of Delaware, TAPSOFT, SIGMOD Conference
+Moody, Lewin,       3.20,      0,  0,   0, Case Western Reserve University
+Campbell ,   Malachi , 3.00,     340, 800,     2,    Texas A&M University-College Station, AWOC, IJCAI
+James,   Sopan,   2.90,   530,    720,  1,     University of Virginia, Formal Methods in System Design
+Maxwell,      Zalika,         3.20,  340,   800,   2,University of Pennsylvania, USENIX Winter, SODA
+Wallace ,       Stor,        4.00, 0,    0, 0,     Dartmouth College
+Owens ,         Sopan ,      3.69,      510,      740,0,    University of Maryland-College Park
+Gordon,         Cabell,      3.49, 350,800,     0,University of California-San Diego
+Stewart ,        Langidrik,2.32,      540,    790,     0,   University of California-Irvine
+Reyes ,      Vadr,       3.40,    560,      780,   0,      University of Florida
+Sharp,      Malachi ,   3.48, 680, 800,  0,   Georgia Institute of Technology
+Fernandez,  Nairn ,2.98, 440,790,    0,  Lehigh University
+Massey , Vendel ,    3.90,  600,     800,      0, Purdue University-West Lafayette
+Guzman,        Mashequila ,      3.53,    490,     780,  0,   North Carolina State University
+Edwards ,      Shabnam ,     3.29,   520,      790,      0,  Georgia Institute of Technology
+Pittman ,    Saga,  3.10,  660,   800,     0,    Duke University
+Martin,      Mashequila,  2.28,    680,    800,    2,  University of Virginia, IWDOM, ICLP/SLP
+Morton ,      Bryer,    1.98, 600,    800,     0,     University of Maryland-College Park
+Hampton,    Eunae ,  3.61,     410,   770,  2, Virginia Tech, OSDI, ICDCS
+Hammond ,Faracy ,    2.92,  630,     790,      0,    Duke University
+Lewis, Aria ,      3.70,      800,  800,    0, Columbia University
+Barker ,   Quillon ,     3.60, 320,800,   0,  University of Southern California
+Snyder ,    Sopan ,      1.82,   540,     800,  2,University of Southern California, Data Mining and Knowledge Discovery, OSDI
+Mann,         Nairn ,    2.64,  760,800,    1, Duke University, Workshop on the Management of Replicated Data
+Evans ,  Hoa , 3.70,  670,   800, 2,    Harvard University, PLDI, TOSEM
+Edwards ,        Talasi,        2.10,   410,    800,      1,University of Wisconsin-Madison, DAC
+Price ,      Dainagon,        3.85,      510, 670,   0,  University of California-Santa Barbara
+West,   Tano,   3.75,   570,     760,0,      University of Southern California
+Mitchell,         Hoa,     3.50,  410,   770, 0, Stanford University
+Wolfe , Keala,   2.86,    320,800,      0,Case Western Reserve University
+Cole,       Dainagon,        1.68, 360,790,0,    Pennsylvania State University-University Park
+Montgomery , Keveronique,      1.88,    310, 800,0, Arizona State University
+Lewis ,     Kiernan,    3.35, 560,790,     0,      University of Rochester
+Rice,Kayani,     2.34,   350,     800,      2,  Purdue University-West Lafayette, AAAI/IAAI, Computing Systems
+Graham , Brylea ,       3.40,    450,780,    0, Washington University in St. Louis
+Anderson,  Ulrike ,     1.82,  550,    800, 0,     Harvard University
+Wong ,      Eunae,   2.48, 690,     800,0, Duke University
+Briggs ,  Kiya ,        3.35,      440,  770,0,     California Institute of Technology
+Ortega,     Caelan,  3.93,    640,    800,      0,   Boston University
+Adkins,    Kayani ,    3.51,  360,     800,     0,     Case Western Reserve University
+Henry ,     Stor ,      2.18,    530,    800,    0,Texas A&M University-College Station
+Garrett,  Mashequila ,         2.42,  330, 800,     1,      University of Delaware, PPCP
+Medina,       Sopan ,    2.88,  720,  800,0,   Lehigh University
+Lopez,      Rustam ,         1.78,   440,  800, 0,    Northwestern University
+Sparks ,Zalika,         2.10,  570,    800,     0,      Virginia Tech
+Osborne,         Lewin ,         3.56,      720,   800, 0,   Georgia Institute of Technology
+Reid,       Peregrin,    3.54,     320,      710,  0,    Washington University in St. Louis
+Wise,     Allulah,   3.57,      530,  800,1,   North Carolina State University, Information and Computation
+Hughes ,    Talasi , 3.62,  690,    800,  1,      Massachusetts Institute of Technology, Hypertext
+Dean,    Quillon,    4.00,     580,800,  0,University of Pennsylvania
+Henderson,        Wayan,3.44,   590,     770,     0,      Rice University
+Stone,    Tana ,      3.68,   670, 790,  0,     Vanderbilt University
+Reid,  Shabnam,   2.84,      510, 800,      0, Arizona State University
+French,  Xanthe ,2.06, 570,   800,    1,      Rutgers State University-New Brunswick, ICDT
+Howard ,       Eben,        3.00,     680,800,     0,  University of Illinois-Urbana-Champaign
+Newton ,         Malem,     3.30, 470,  800,    0,  University of Pennsylvania
+Rodriguez,   Caelan, 3.98, 460,  770,    0, Dartmouth College
+Francis,         Xanthe ,   3.60,420,800, 0,      Pennsylvania State University-University Park
+May,        Florenzo, 3.85,  720,   800,    0,  Rice University
+Henry,         Vadr,     2.20,    530,      720,   0,Arizona State University
+Grant, Wayan,3.80,   300,760, 2,     Johns Hopkins University, International Journal of Computatinal Geometry and Applications, 25 Years ISCA
+Paul,       Cydee ,     3.30, 370, 800,     2,   Northwestern University, Workshop on the Management of Replicated Data, ICDT
+Colon,  Caelan,3.90,  670,   790,      2,   Northwestern University, STOC, TOPLAS
+Morales ,   Tana,        4.00,    720, 780,      1,University of Pennsylvania, ECSCW
+Duncan , Brittain,  3.37,      390,      750,   2, North Carolina State University, Workshop on Hot Topics in Operating Systems, ECCV
+Hardy ,Keveronique,  3.72,   680,    800, 0,     University of California-Berkeley
+Santos ,        Malachi ,         2.74, 320,     780,   2, University of Virginia, DOOD, Formal Methods in System Design
+Dunn ,  Keveronique ,         3.67,  350, 790,     0,      University of Delaware
+Rice,         Rombert,       3.61,480,      780,    0,University of Delaware
+Gilbert ,       Saga, 3.74,  700,  740, 0,   University of Illinois-Urbana-Champaign
+Moody, Jerrine,         2.70,  360,   780,     0,     University of Florida
+Simmons ,     Faracy ,        3.89,  380,  790,     0,Massachusetts Institute of Technology
+Anderson,   Redrick , 3.50,   550,     800,      0,      University of Washington
+Cook,     Tana ,     2.92,   430,     800,  2, University of Florida, VVS, WWW5 / Computer Networks
+Garner ,       Faracy,       3.50,     590,    790,   0,     University of Florida
+Blake,      Mashequila ,  3.40, 770,   800,   0,   University of Southern California
+Watts ,      Zalika,        3.87,     490,     800,0,Virginia Tech
+Mann ,       Sopan ,         3.08, 460,    800,     0,   University of Texas-Austin
+Burton, Brogan,       3.60,710,800,     0,     University of Florida
+Rodgers,    Pogisa ,  3.55,560,   760,    0,   University of Pennsylvania
+Douglas,        Phoenix,  3.50,    410,      800,     2,    University of Delaware, TAPSOFT, Storage and Retrieval for Image and Video Databases
+Burton, Achina,         3.20, 540,      790,   1,  Washington University in St. Louis, ISMM
+Fuller,     Keishin,        3.70,610,    800,  0,      Vanderbilt University
+Price,Farida,       3.60,520,     800,    0,  University of Wisconsin-Madison
+Strickland,      Redrick,3.40,    730,   800,2,  University of California-Irvine, ACM Conference on Computer and Communications Security, USENIX Winter
+Robinson,         Garreth,       3.44,   330,      800,    0,Case Western Reserve University
+Murphy ,  Serenade,3.30,     740,   800,0,     Rice University
+Howell ,Asha,  3.65,     400,      800, 0,   University of Florida
+Cooper ,        Caelan ,  3.87, 500,790,  0,  University of California-Santa Barbara
+Boyd, Bryer ,   3.12,      690, 780,    0,      Carnegie Mellon University
+Moore ,   Malachi ,     3.55,   330, 750, 0,   Georgia Institute of Technology
+Doyle,      Tejini ,  3.87,  720,  800,  0,     Virginia Tech
+Hart ,   Delen ,       2.62, 580,    800,    2,   Columbia University, American Journal of Computational Linguistics, Journal of Automated Reasoning
+Hammond, Kalah ,      3.84,     440,   780, 0,Princeton University
+Romero ,    Malem,     2.95,    370,      720,      0,Vanderbilt University
+Stephens ,        Quaintance ,        3.00,    430,      710,    0,Princeton University
+James,   Galina,       3.56,   540,     800,   0,   Harvard University
+Robbins,     Caelan,   3.54,280,      770,      2,  Iowa State University, KDD, WWW5 / Computer Networks
+Todd,         Blade,      2.02,   540, 800,    1, University of Wisconsin-Madison, ISLP
+Hopkins,       Harmonn,   2.72,      540,   800,     0,      University of Colorado-Boulder
+Wagner,         Ha'ani ,  3.68,    610,     800,  0, Harvard University
+Reed,Sanjay,       3.10,      540,      730,  2,Lehigh University, KR, MICRO
+Thompson, Tau,         3.89,   590,     790,0,      Virginia Tech
+Alexander,     Callum ,       2.84,    370,  710,   0,     Purdue University-West Lafayette
+Greene,        Cydee ,   1.78,    640,  800,0, University of California-Santa Barbara
+Silva,  Adai,3.30, 680,780,      0,     Texas A&M University-College Station
+Rodriguez , Xanthe,   4.00,    660,      800,      1,  Northwestern University, SIGMOD Conference
+Payne ,        Malem, 3.12,660,    800,   0,    Carnegie Mellon University
+Rodriguez ,       Faracy ,       3.85,      490, 750,  2,    University of Florida, Learning for Natural Language Processing, VLDB Journal
+Riley,     Farida,       3.52,560,800,     0,     University of California-Davis
+Barnes ,    Bryer, 2.14,620,      800,    0,    Rensselaer Polytechnic Institute
+Morris ,Talfryn,      3.80, 460,    790,     1,    Carnegie Mellon University, USENIX Summer
+Townsend,    Sage ,2.86,   490,  800,   0,     Rensselaer Polytechnic Institute
+Hughes,        Yoana,     2.12, 440,      790,     2,      Ohio State University, Middleware, TOPLAS
+Montgomery ,        Callum ,    3.64,    480,   790,0,      University of Virginia
+Stokes ,     Rangi ,        3.64,      730,      800,     2,University of California-San Diego, Rules in Database Systems, AOSE
+Black ,       Jerrine , 3.55,    410,800, 0, Harvard University
+Perez ,   Kalah ,  3.67,     600,  770,    0,    University of California-Berkeley
+Arnold,     Jacaranda , 3.89,     550,   800,      0,     North Carolina State University
+Floyd ,  Aria,    3.60,     370,    790,     0,      University of Washington
+Mitchell , Bryer,     3.71,    420, 800, 0, Stanford University
+Matthews,      Bryer ,    3.40,      550,  800, 0,University of Michigan-Ann Arbor
+Woods,Allulah ,       3.50,      550,      800,      0,    Duke University
+Nguyen ,     Kiernan ,       3.09,540, 800,   0,   University of Pennsylvania
+Palmer,       Peregrin,         2.04,     630,  800,      2,  University of California-San Diego, Journal of Logic and Computation, TOPLAS
+Jensen,      Phoenix ,      3.80, 590,    800,    1,  University of Southern California, Java Grande
+Diaz,    Galina ,     3.66,   450,   800,     0,   University of Colorado-Boulder
+Arnold ,         Kalah,3.91,     590,800,   0,   Johns Hopkins University
+Vaughn,         Keveronique ,  3.40,  630,800,     2,  University of California-Los Angeles, Symposium on Testing, IEEE Transactions on Parallel and Distributed Systems
+Oliver,    Wayan ,3.56,550,     800, 0,  Northwestern University
+Hardy ,    Malachi,       3.24,  730,  800,     0,    University of Southern California
+Carroll,    Cabell,  3.12,    580,770,   0,  Ohio State University
+Ortiz ,   Eunae,     3.88,      630,   740,0,      Iowa State University
+Malone,    Sopan ,     1.78,550,      800,    1,Boston University, IEEE Transactions on Pattern Analysis and Machine Intelligence
+Padilla ,  Quillon ,       3.37,   510,     800,     1,Stanford University, ICCV
+Barker ,       Amiya, 3.63, 680, 770, 1,    Duke University, IEEE Transactions on Multimedia
+Guerrero ,      Madrigal, 1.86,      380,800,      0,  University of California-Davis
+Oliver,        Pogisa ,    3.32,480, 800,   1,   University of Rochester, PROCOMET
+Hill,       Jonzelle ,        3.55,     620,   780,   2,     Cornell University, TOPLAS, Hypertext
+Moss,  Talasi ,      2.60,390,  800,0,Rensselaer Polytechnic Institute
+Wells,Nanc ,    2.14, 600,    800,   0,    University of Florida
+Miller, Eunae, 2.48,      590,    780, 0, University of Virginia
+Ball ,Phoenix ,      3.92,   500,      770,   0,   Rensselaer Polytechnic Institute
+Gill ,    Brylea ,2.50, 690,   800, 0,  University of Rochester
+Garner ,    Cydee ,   2.80,  590,   800,      0,      Rensselaer Polytechnic Institute
+Guerrero , Viveca,         2.22, 730,    800,  0,  Purdue University-West Lafayette
+Mcdaniel ,   Brittain,3.40,      600,800,     0,     Johns Hopkins University
+Dunn,    Eben ,3.70,   390, 800,     0,     University of California-Davis
+Cunningham,   Kincaid,       2.84,  360,      680,2,   University of Southern California, PDIS, Applications and Theory of Petri Nets
+Clark, Jonzelle ,       3.60, 790,      800, 1,Massachusetts Institute of Technology, SIGMOD Conference
+Shaw,     Mandalay, 3.50,    420,    740,    0,    Vanderbilt University
+Baker ,Malem ,3.90,     700,800,0,      Ohio State University
+Dawson ,  Rustam ,  3.34, 410, 800,   0, University of Minnesota-Twin Cities
+Moss,   Adai ,2.78,     560,     800,      0,  University of Colorado-Boulder
+Barber, Javid,    2.28,      580,    780,     0,    University of California-San Diego
+Holland ,         Malachi ,   3.60, 660, 750,  0,     Duke University
+Bowers, Vadr,    3.91, 610,      770,0,    University of Florida
+Keller, Jonzelle,       3.88, 420,     700,     0,  University of California-Los Angeles
+Morton,    Aria,       3.80,610,     800,   0,Pennsylvania State University-University Park
+Barnes ,   Keveronique ,         1.88,     740,     800,    0, Harvard University
+Meyer ,  Brittain ,      1.88,550,      780, 0,   Rutgers State University-New Brunswick
+Fitzgerald,        Heave ,       3.88,      550,  800,  0,   University of Delaware
+Marshall,      Nami ,    2.40,      550,     730,    0,      North Carolina State University
+Soto ,       Harmonn ,     2.24,710,      800,     0,   Purdue University-West Lafayette
+Norris ,   Isa ,         1.72,     300,     780,  1, Duke University, IEEE Computer
+Terry ,    Bayani,1.94,    570,   770,    0, University of Wisconsin-Madison
+Simmons ,      Pogisa,         2.60, 580,      800,      1, Lehigh University, ACM Conference on Computer and Communications Security
+Bailey ,        Usman, 2.06, 720,     800,0,     Rutgers State University-New Brunswick
+Chapman ,        Tana ,     1.84, 660,     800,   0,   Vanderbilt University
+Sherman,      Jonavan ,  2.34,  550,   800, 0,     Massachusetts Institute of Technology
+Reed ,  Wayan ,  2.72,      480, 780,   0,  Pennsylvania State University-University Park
+Higgins ,       Nairn,      3.72,    560,  800,     0,  University of Texas-Austin
+Berry, Hoa,3.55,      350,     790,     0,University of Virginia
+Morton, Inkem, 3.12,    330, 720, 0,   Cornell University
+Munoz ,Kerah,         3.90,500, 800,  0, Georgia Institute of Technology
+Rios ,       Saga,  3.54,     500,    800,    2,Massachusetts Institute of Technology, NOSSDAV, MOBICOM
+Harris ,      Bayani ,    3.63,    580,     800,   0,   Carnegie Mellon University
+Carroll,    Essex ,        3.88,390,  800,0,     University of California-Santa Barbara
+Lane,Nami,   1.96,  530,    800,   2,      University of Michigan-Ann Arbor, AAAI, VVS
+Fitzgerald ,  Nairn, 3.59,0,  0,      0,Washington University in St. Louis
+Wade,   Essex ,   3.44,680,      800,   1, Case Western Reserve University, Advances in Petri Nets
+Quinn ,Keala ,       1.74,  480,   800,0,      University of Colorado-Boulder
+Carpenter ,  Pike ,       3.80,550,    800,      2,Purdue University-West Lafayette, USENIX Winter, Journal of Logic and Computation
+Peterson , Xuyen,3.44,    440,   780,    0,   University of Delaware
+Bush ,        Stor ,        3.28,   700,      800,  0,    University of Maryland-College Park
+Williamson, Cydee ,      3.10,    390,   800,    0, Harvard University
+Hines,  Menuha,         3.00,   680,      770,   2,      Texas A&M University-College Station, ICTL, PDIS
+Moreno ,      Madrigal ,      2.80,600,   800,      2,    Virginia Tech, OOPSLA, ACM Multimedia
+Moreno,  Shabnam,        2.12,   660,   800,0,      Cornell University
+Baldwin,  Ilima,       3.70,530,     770,    0,    Boston University
+Jones,Eithne,         3.72,   740,    800,  2, University of California-Berkeley, WCRE, Workshop on Parallel and Distributed Debugging
+Ferguson,Javid ,   3.85,  400,      800,    0,Cornell University
+Mendez ,         Essex,3.90,    340,     790,    0,  University of California-Santa Barbara
+Vaughn, Saga ,     1.54,      650,     800,   0,   Northwestern University
+Brooks ,         Yorath,     2.30,320,      800, 0,    University of Maryland-College Park
+Castro ,       Cydee ,  3.88,     360,      800,0,      Vanderbilt University
+Watkins ,    Keveronique ,  3.70, 470, 790,      0,      Case Western Reserve University
+Rodgers,    Garreth ,3.60,    570,      790, 0,      University of Rochester
+Mendez,    Harmonn ,  1.98,    590, 800, 2,   Purdue University-West Lafayette, TAPSOFT, SIGMETRICS/Performance
+Dunn , Stor ,       1.86,470,   800,     0, Georgia Institute of Technology
+Campbell,        Mashequila ,  2.28, 660,  740, 0, North Carolina State University
+Duncan,  Kiya ,      3.30,    360, 800,  0,  Rice University
+Romero ,       Odilia,       2.12,    440,  800,     0,    University of Rochester
+Lopez ,  Ilima ,1.80,      500,    800,  0,      University of Pennsylvania
+Houston , Bryer ,      3.25,     340,   800,  0,   Rensselaer Polytechnic Institute
+Lawrence,   Rombert,        3.48, 300, 790, 0,    Purdue University-West Lafayette
+Griffin ,      Keishin,    3.70,  530,800,    0,    Dartmouth College
+Cobb,    Menuha ,      2.62,     530,     800,   0,  Princeton University
+Shaw ,    Faracy,    3.12,     390,    750,   1,     University of California-Irvine, CSFW
+Stanley ,   Aria,   3.84, 630,      800,0,    Harvard University
+Vasquez,       Xuyen ,       2.10,      400,   780,0,     University of Delaware
+Carpenter,     Isa,       3.94,     0,    0,     2,      University of Rochester, ISLP, Journal of Computer Security
+Lindsey ,        Piero ,     1.52,710,     800,2,  University of California-Berkeley, WWW, Evolutionary Computation
+Mendoza,    Eithne ,      3.98,  540,     800,    0,North Carolina State University
+Strickland ,   Zoltan,         3.60, 360,     780, 0,  Texas A&M University-College Station
+Rios ,    Falthin,  3.60, 300,   790,     0, University of California-San Diego
+Osborne ,        Talasi ,         3.96,     560, 800,      2,    Pennsylvania State University-University Park, AIPS, LICS
+Allen ,  Rombert,     1.92,      520,    800, 2,University of Maryland-College Park, JICSLP, SLP
+Henderson ,      Pike , 3.30,      510,      800,0,    University of Colorado-Boulder
+Maldonado ,  Asha,3.89, 550, 800,2,   University of Texas-Austin, ECSCW, NACLP
+Sandoval ,       Delen,   3.03,620,    800, 0,      Stanford University
+Stephens,  Zoltan ,  3.00,   620, 780,  0,Carnegie Mellon University
+Houston ,        Bida ,1.98,    500,800, 1,      Lehigh University, SIGMETRICS/Performance
+Chavez,        Piero ,       4.00,600,    800,  0,      University of California-Davis
+Nunez,   Stor,         3.85,      380, 800,    0,      Cornell University
+Cruz, Cydee,      3.46,   330,     800,    0,    Columbia University
+Ford ,         Sanjay ,    3.46,     470, 800, 0,  Boston University
+Olson ,Tejini ,  3.65,     310, 770,   0,     University of Pennsylvania
+Patrick,   Malem,    2.86,   410,     610,0,   University of Pennsylvania
+Woods,      Talfryn,   3.20,410,      800,    0,Rutgers State University-New Brunswick
+Soto,         Callum,  3.44,     460, 770, 0,     Harvard University
+Clayton ,    Vendel,3.60,    430,800, 2,    University of Virginia, ESOP, SPAA
+Abbott ,Viveca,3.75,  580,     800,  0,   University of Washington
+Mcdaniel,     Vadr,      3.60, 590,    760,     0,   University of Illinois-Urbana-Champaign
+Olson ,       Mandalay,     3.88, 540,      800,   0, Johns Hopkins University
+Dennis, Bayani ,   3.50,   550,  800,  0,   University of California-Los Angeles
+Burns ,  Ulrike ,   2.24,630, 800,  1,     Ohio State University, CSFW
+Berry,      Tejini ,         2.18,  680,800,   0,   Massachusetts Institute of Technology
+Frank,        Inkem,   3.49,   380,      760,  0,Johns Hopkins University
+Osborne , Tau,      1.54,    740,  800, 1,     Purdue University-West Lafayette, WWW8 / Computer Networks
+Morris ,     Heave ,        3.45,  340, 800,     0,Purdue University-West Lafayette
+Holloway ,Dash ,        3.73,     300,    770,      0,Virginia Tech
+Jenkins,         Blade ,  3.81,     560,800,   1,   Virginia Tech, Emergent Neural Computational Architectures Based on Neuroscience
+Gordon ,     Brogan, 3.02,540,790,  0,     University of Wisconsin-Madison
+Ellis,      Blade ,        2.99, 460,     800, 0,      Boston University
+Snyder , Heave ,  3.68,    570,  800,     0,   University of California-Berkeley
+Huff ,   Kerah ,   3.99,  490, 750,   0,    Carnegie Mellon University
+Wade ,        Shabnam ,3.60,    550,     800,     0,  University of Rochester
+Saunders,  Kincaid ,      3.25,    510,      800,      2,   University of Maryland-College Park, JACM, SI3D
+Griffith ,   Phoenix ,3.36,     300,    800,      0,      University of Rochester
+Dennis ,  Adao ,    3.60, 490, 800,  0,     Vanderbilt University
+Ingram,Vadr,        3.64,     650,      800,2,      Harvard University, ACM Conference on Electronic Commerce, International Conference on Supercomputing
+Gray,       Quaintance ,  3.24,     650,      800,  0,   University of Rochester
+Larson,     Javid ,       2.88,    530, 800,   0,Pennsylvania State University-University Park
+Aguilar,     Malachi,    4.00,    0,  0,   0,      North Carolina State University
+Floyd,      Callum,   3.57,     540,800,      1,   Arizona State University, FOCS
+Pearson ,         Faracy, 2.38,   540, 800, 0, University of Virginia
+Stevens,Eunae,3.49,     510,  780,  1,     Rensselaer Polytechnic Institute, International Journal of Computatinal Geometry and Applications
+Steele , Mandalay ,       3.90,  550,800,  0, Yale University
+Hamilton,  Inkem,      3.65,    660,   800,   1,  Iowa State University, AAAI/IAAI
+Wagner, Laban ,      3.97,  650,     800,    1,   California Institute of Technology, WWW8 / Computer Networks
+Ball,    Mei-Ling,   3.90,390, 800,  1,    University of Delaware, CADE
+Lynch,      Adao,   3.24,      570,      790,1,    University of California-Los Angeles, PEPM
+Foster ,      Delen ,     2.56,     330,    750,      2,Ohio State University, SSD, PPSN
+Poole ,  Galina,   3.60,    510,   740,0,University of California-Santa Barbara
+Thompson,         Oldak,  3.09,   310,800, 0,   University of California-Santa Barbara
+Powell,     Damayanti,3.40,      440, 800, 0,      University of California-San Diego
+Reynolds , Aria ,  2.10,710,   800, 0,    University of California-San Diego
+Henderson,        Galina,3.50,   410,800,   0, University of Texas-Austin
+Colon,  Usman , 3.04,      610, 740, 0,     Duke University
+Freeman,  Heave,      3.60,650,  800,  0,     Lehigh University
+Estrada ,         Brogan,3.55,  550,  800,  0,  University of Pennsylvania
+Osborne,    Stor,    2.59,    330, 730,   0,North Carolina State University
+Houston,Cabell ,         3.58,      590, 800,  0,      University of Rochester
+Ballard,Heave ,       3.33,     520,  780,0,    Cornell University
+Peters,         Jonzelle,     2.60, 440,      790,      0, University of California-San Diego
+Simon ,   Aria ,    3.48,500,   640,  0,University of Pennsylvania
+Rice ,        Sanjay ,        3.15,      470, 740,   0,    University of Michigan-Ann Arbor
+Scott,  Brittain ,        3.88,      560, 780,0,    Massachusetts Institute of Technology
+Carson,      Bida ,3.96,640,    770, 2,      Arizona State University, IEEE Transactions on Parallel and Distributed Systems, Computational Geometry
+Fleming, Quest,       3.67,    680,  750,  1, Rutgers State University-New Brunswick, ESOP
+Wolfe,        Cabell ,        3.10,   310,  800,    0,     University of Pennsylvania
+Figueroa ,    Bida,  3.44,310,    800,  0,  University of Virginia
+Walsh ,Sage ,        1.82,   460,  800,      2,  University of Pennsylvania, FMCAD, Journal of Computer Security
+Jimenez,        Saga ,    3.78,   530,  800,0,      Carnegie Mellon University
+Barnes ,  Adai, 3.74, 620,  800,   0, Cornell University
+Castillo,Tau,   2.92,   680,800, 0, Rensselaer Polytechnic Institute
+Reese , Mashequila,  4.00,   640,    800,  0,California Institute of Technology
+Walters,        Allulah ,      2.88,      630,     800,0,      Boston University
+Shelton,    Nefertiti ,      3.83, 350,  800,      0,  Cornell University
+Martinez,    Odilia , 3.70,     420,     780, 2,   University of Texas-Austin, JCSS, HPCA
+Gibbs,      Eithne,         1.88,  660, 790, 0, University of California-San Diego
+Carlson, Serenade, 3.20,  510,640,  0, Georgia Institute of Technology
+Sparks ,       Tejini,  1.56,   310,800,     0, Ohio State University
+Guerrero,Ha'ani,    3.36,  650,    800,   0,   Rice University
+Estrada ,       Falthin , 2.60,  680,      800,   0,   University of Rochester
+Webster ,      Karavi, 1.74,    700,  790,   0,      University of Washington
+Hughes ,Allulah,2.32,    570,800,  2,  Arizona State University, ICSE - Future of SE Track, ACL
+Doyle ,       Brittain ,      3.50,    300,    800,     1,University of Southern California, ISLP
+Frank ,         Harmonn ,      2.14,   600,   790,  0,University of California-Davis
+Ward,  Falthin,       3.46,  610,  790,   0,   University of Wisconsin-Madison
+Riley ,       Sopan ,      2.44,620,   790,      0,     Harvard University
+Wolfe ,        Brogan,         4.00,      660,     800,  0,    Case Western Reserve University
+Sharp , Ulrike,3.76,    530,     690,   0, Virginia Tech
+Knight ,       Warlita,     2.76,  530,790,     0,   University of Texas-Austin
+Fuller ,        Rustam ,         2.34,      640,800, 0,  Dartmouth College
+Pierce,         Kiernan ,         2.50,    660, 800,     2,   University of Rochester, SIGMOD Conference, ICCV
+Webster,     Oldak,        3.80, 540,     800,      0,    Ohio State University
+Fowler ,       Brylea,    2.14,  710,     780, 2,  University of Michigan-Ann Arbor, TKDE, Structure in Complexity Theory Conference
+Day ,       Laban ,        3.16,    620,      800,  0,   University of Minnesota-Twin Cities
+Nichols,    Salathiel,2.22, 390,     800, 0,  University of Maryland-College Park
+Willis ,        Salathiel,      3.36,      680,800,     0,Carnegie Mellon University
+Stephens, Vendel ,2.82,  660,  800,   0,      Rensselaer Polytechnic Institute
+Ray ,  Dash ,2.44,  580,    770,     0,    Cornell University
+Malone ,    Madrigal ,       3.90,      640,      800,0,      Yale University
+Park, Nefertiti,    2.60,      530,     770,   0,University of California-Los Angeles
+Stephens,   Tana ,2.54, 600,      800,0,    Pennsylvania State University-University Park
+Peters,        Yoana ,        3.50,620,    710,   0,    Dartmouth College
+Alvarado,         Kiernan,      3.39,   580,   790,      0,  University of Illinois-Urbana-Champaign
+Jimenez ,         Rangi ,   1.96,      700,      790,     0,    Cornell University
+Mcdonald ,        Harmonn ,    3.41, 690,  800,   0,   University of California-Davis
+Johnson,    Xanthe,3.76,      550,800,     2,   Duke University, FPCA, ICDCS
+Bowers,      Tau,        3.47,   660,    800,  0,University of Texas-Austin
+Zimmerman,     Brittain, 3.76,630, 800,   0,     Texas A&M University-College Station
+Brewer, Viveca ,  3.61, 0,  0,     0,      University of California-Berkeley
+Silva,   Quest,       2.34,  350,  800,    1,    Case Western Reserve University, ECSCW
+Adkins,      Ha'ani, 1.64,    520,      800,   0,     Washington University in St. Louis
+Clayton ,   Florenzo ,    2.64,   760,     800,   1,     Iowa State University, ICDE
+Miller ,  Lewin ,    2.82,    280, 780,    1,     Princeton University, SIGSOFT FSE
+Mckinney ,         Quaintance ,     3.00,  550, 800,  1,      Case Western Reserve University, IEEE Transactions on Pattern Analysis and Machine Intelligence
+Ingram ,       Talfryn ,3.36,310,      800,  0,      University of California-Davis
+Elliott ,     Bayani ,2.34,      760,    800,    0,    University of Rochester
+Martinez,       Adai,     3.44,     590,    730,      0,  University of Virginia
+Lynch ,         Madrigal,       3.41,     330,   800,    0, Case Western Reserve University
+Burton,      Brylea ,      1.84,  460,     800,  0,  Lehigh University
+Sharp ,  Pike,      3.30,   440,    800,     0,   Ohio State University
+Barnett,  Laban ,3.31, 540,790, 0,California Institute of Technology
+Ross, Jonzelle,       2.90,      590,  800,  0,   Ohio State University
+Daniel, Mei-Ling,3.20,      570,   770,    0,     Columbia University
+Cook ,     Blade,       1.70,    580,800,  0,Rice University
+Ingram ,     Nairn,     3.40,    530,   800,  2, University of Illinois-Urbana-Champaign, Computational Complexity, USENIX Winter
+Lawson ,  Usman , 3.01, 380,     800,     1,Arizona State University, Artificial Life
+Dean,        Rombert ,      3.00,  380,      800,     0,   Rensselaer Polytechnic Institute
+West,         Sanjay,   3.70,      590,   800,     0,  Virginia Tech
+Brock ,         Langidrik,  2.04, 600, 800,  0,Carnegie Mellon University
+Walters ,     Tana,        3.64,      570,     800,      0,Pennsylvania State University-University Park
+Gonzalez ,      Nefertiti ,   3.28,    620,     800,    0,      University of Rochester
+Burton,      Keishin ,2.58,      670,  780,   0,      Case Western Reserve University
+Peters,Ireri,2.78,   640, 790,      2,   Georgia Institute of Technology, IEEE Transactions on Visualization and Computer Graphics, WWW5 / Computer Networks
+Osborne,        Kiya ,         2.02,640,    780,     0,  North Carolina State University
+Huff,   Quaintance,         2.60,  660,    800,      2,   Yale University, Fast Software Encryption, VVS
+Torres ,   Rangi,         2.82,  640, 790,  0,  University of California-San Diego
+Stokes,        Japheth , 2.22,    330,   740,      0,   University of Delaware
+Todd,      Tana , 2.14,   510, 800,  0,     Northwestern University
+Morrison ,         Tau, 3.70,     680,    800,     0,   University of California-Berkeley
+Taylor ,      Serenade ,       3.35,370,      750, 0,     Ohio State University
+Chandler,  Viveca,     3.20,     390, 800, 0, Rensselaer Polytechnic Institute
+Munoz,  Adai,      3.30,  290, 800, 0,  University of Virginia
+Thompson,    Jonavan,       3.40,    490,  720,    0,      Washington University in St. Louis
+Colon , Tejini,         2.54,530,   800,   0,  Harvard University
+Walsh,        Bayani,        3.80,280, 660, 0,    University of California-Davis
+Mccormick , Damayanti ,    2.80,    640,      800,0,     Washington University in St. Louis
+Jordan,  Eithne,  3.71,670,      790, 2, Rutgers State University-New Brunswick, ACM Workshop on Role-Based Access Control, SIGSOFT FSE
+Elliott ,    Salathiel,      3.48,     440,   800,    0,      Columbia University
+Myers ,       Allulah,  2.46,    330,     800,  0,      Johns Hopkins University
+Hicks,   Jonavan,       2.08,   390,800,  0,Pennsylvania State University-University Park
+Parks ,        Keishin ,       2.38,      560,  780,  0,    Boston University
+Gibson ,   Bida,    3.36,   550,     790, 0,     University of Florida
+Thornton , Essex ,         3.97,     690, 770,0,Case Western Reserve University
+Richardson,         Menuha,         3.93,   580,     790,  0, Stanford University
+Watson ,     Brylea,        3.97, 610,    800,0,University of Rochester
+Warren,       Talasi, 3.48,620,800,0,      Vanderbilt University
+Graham,      Delen,    1.56,    570, 730,     0,   University of Illinois-Urbana-Champaign
+Coleman,         Oldak ,    2.34,  750,      800,     0,  Harvard University
+Martinez,        Vadr ,         2.58,      690,   800,0,     University of Wisconsin-Madison
+Lopez,     Vadr , 2.22,     570,     770,     1,   University of Maryland-College Park, PROCOMET
+James, Ulrike,  3.70,      490,      740, 0,University of Florida
+Hall ,  Asha ,     2.89,    570,   800, 2,      University of Washington, IEEE Journal on Selected Areas in Communications, IWMM
+Burton ,    Tana ,     1.84,      640,     780,     0,   University of California-Irvine
+Edwards,  Malachi,        3.66, 740, 800,    2, Columbia University, ESEC / SIGSOFT FSE, IEEE Real-Time Systems Symposium
+Marsh,   Essex , 2.62, 710,      800,0,     University of Washington
+Sutton ,         Essex , 3.58,     490,   790,  0,   Boston University
+Foster,   Pike ,    3.80,      640,800,     0,      University of Wisconsin-Madison
+Carlson ,  Eben ,   3.30,   610,      800,0,     Purdue University-West Lafayette
+Rogers ,        Kincaid,        3.50, 450,  800,      2,  Georgia Institute of Technology, SIAM J. Comput., Structure in Complexity Theory Conference
+Warren, Kiernan ,3.33,  610,   800,      0,California Institute of Technology
+Ross,  Mei-Ling,         2.18,  530,  800,    2, Rensselaer Polytechnic Institute, TOCL, Formal Methods in System Design
+Abbott ,     Adai, 3.30,    550,    770,      0,     University of Virginia
+Santos,Talfryn ,         2.60,    680,      790,  0,      Rice University
+Carson, Ilima,       3.24, 570, 740,    2,  Arizona State University, STOC, Storage and Retrieval for Image and Video Databases
+Young ,        Madrigal ,   3.40,   570,   800,     0, University of Washington
+Stone , Brylea ,   2.28,  680,      800,  0,  Purdue University-West Lafayette
+Perkins ,   Rustam ,  1.84, 420,   740,     0,      Virginia Tech
+Larson, Adai,       1.92,      670,  750,    0,    Massachusetts Institute of Technology
+Jenkins ,        Brylea ,   1.82,  550,     800,1,      University of Washington, IEEE Real Time Technology and Applications Symposium
+Cunningham ,      Stor ,      1.82,  330,    710,   0,    University of Illinois-Urbana-Champaign
+Colon ,   Mashequila ,     3.85,   0,   0,0,  Case Western Reserve University
+Cummings ,        Aria,     3.24,570,      800,      0,    University of Washington
+Henry, Essex, 4.00,      610,    750,    2, University of Rochester, ASPLOS, Cognitive Science
+Robinson,      Cydee,        2.88,490,      800,      0,    Georgia Institute of Technology
+Mccarthy,Vendel,       2.20,    550,    800,   0,     Pennsylvania State University-University Park
+Stevenson ,     Dainagon,       3.72, 670, 800,     0, Boston University
+Gutierrez,Zoltan ,    2.60,  490,   800,0,     University of California-Davis
+Kennedy,  Sage,  1.66,  630,760,   0,   Georgia Institute of Technology
+Vega ,         Keishin,  3.96,350,      790,  0,      University of Wisconsin-Madison
+Anderson,  Malem,3.50,550, 780,      0,   Washington University in St. Louis
+Moreno, Warlita ,    3.52,    510,  740,     0,     University of Delaware
+Massey,  Madrigal , 2.18,      410,  750,   0, North Carolina State University
+Evans ,Brittain ,    2.18,550,  790,     0,     Case Western Reserve University
+Thompson,   Tana,3.88,   630,800, 0,    Duke University
+Webster ,         Dainagon, 3.20,420,  740,  0,    Harvard University
+Griffith ,      Tana ,  3.32,     320,      670, 0,   University of Texas-Austin
+Turner,  Tano ,   2.38,   660,  780,    0,     University of Pennsylvania
+Bowers,  Asha ,         2.92, 430,    770,   0,      University of Minnesota-Twin Cities
+Tyler, Javid ,     2.56,  680,770,      0,    Harvard University
+Graves,   Nami ,      3.59,   0, 0, 0,   Boston University
+Barrett,Yoana ,    2.96,    610,   800,      0,     Cornell University
+Paul,  Nanc,    2.52,     360,800,    0,Georgia Institute of Technology
+Peterson ,   Allulah ,      1.76,      540,     800,   0, Texas A&M University-College Station
+Gibson ,       Hakan ,     3.70,    290, 620,   0,University of Minnesota-Twin Cities
+Curry ,   Pike ,    3.89,330,  800, 0,   Boston University
+Moran,         Rangi ,        2.02,    560, 800,    1,     University of Maryland-College Park, VLDB Journal
+Cummings ,    Vendel,    2.28,      590,   800,   0,      Lehigh University
+Blair, Ilima ,   3.75,     340,  800,    0,      Harvard University
+Rose,         Kerah ,       3.30,     330,      800,   0,     University of Maryland-College Park
+Cannon,     Jonavan,     3.64,   650,800,      0, University of Colorado-Boulder
+Simpson ,Adai ,        3.68,    650, 800,  0,   Rutgers State University-New Brunswick
+Mack ,         Cabell, 3.21,   620,    790,  0,Vanderbilt University
+Henderson,      Tano ,    3.70,  550,     800, 0,      Duke University
+Hopkins,         Saga ,      3.56,    570,     780, 0,   University of Pennsylvania
+Warren,   Japheth,       1.94,     700,  800,     1,     Georgia Institute of Technology, IEEE Symposium on Security and Privacy
+Ross ,        Piero,         2.66,      640,  800,     0,University of Washington
+Larson , Brittain,  1.78,   510,      770,  0,    University of Virginia
+Brown, Langidrik ,    3.43,      520,    710,      0,  University of Southern California
+Dean ,       Amiya, 2.38,     590,    790,  2,      University of Michigan-Ann Arbor, CAV, CHI
+Parsons,        Serenade ,     2.66,  490,   710,     0,University of Colorado-Boulder
+Rivera,       Malem ,  1.84,  620,  800,2, Georgia Institute of Technology, Autonomous Agents and Multi-Agent Systems, SC
+Wood,   Usman,    3.65,     590,      770,     0,     University of Illinois-Urbana-Champaign
+Guerrero,Malachi ,      1.78,  630, 800,    0,    North Carolina State University
+Terry,    Xanthe ,        3.43, 610, 800,      0,    Ohio State University
+Logan ,  Tano ,  2.08, 550,800,0, Georgia Institute of Technology
+Lewis ,     Quest,      1.86,     500,800, 0,   Vanderbilt University
+Holloway, Adao,        2.76, 590,800,      0,     Case Western Reserve University
+Townsend ,      Sopan,         1.72, 540,  800,     0,    Purdue University-West Lafayette
+Hawkins , Dainagon,   3.84,     490,     790,   0,  Princeton University
+Sutton ,  Xuyen ,    2.04,    300,770,    0,     Princeton University
+Martinez,         Quillon ,      2.06,      290,     800,     0,      University of Washington
+Lucas,   Delen ,   1.50, 690,   800,0,   University of Minnesota-Twin Cities
+Berry ,   Talfryn ,        3.52,   490,750, 0,   Case Western Reserve University
+Foster,Jonzelle ,     1.88,   740,    800,     0,  University of California-Santa Barbara
+Gross,     Delen,    1.52,   590,     800,   0,     Virginia Tech
+Cooper ,     Redrick ,      3.40,    520,  790,  0,      Iowa State University
+Sutton,         Vendel ,       3.48,     780,    800,    2,  Washington University in St. Louis, Computational Linguistics, SSD
+Spencer ,Salathiel ,2.99,     330,    750, 2,      Dartmouth College, Rules in Database Systems, SIGGRAPH
+Rice ,       Odilia,      3.09,     530,     760,     0,North Carolina State University
+Sims,  Warlita,2.06,560,      760, 0,  University of California-Berkeley
+Roberts ,Malachi,      2.92, 450,     750,  0, University of Washington
+Morris ,        Serenade, 3.73,   560,   740,      0,  Carnegie Mellon University
+Peterson ,   Jonzelle ,     1.88,     350,     800,     0,    Duke University
+Ferguson,     Florenzo,         3.35,     450,   790,    0,   University of Michigan-Ann Arbor
+Howell,        Sage , 3.41, 730,      770,      0,  Ohio State University
+Herrera,        Kerah ,       3.85,550,      800,      0,   Yale University
+Jefferson,  Javid, 1.54,      600,800,    1,  Purdue University-West Lafayette, USENIX Symposium on Internet Technologies and Systems
+Estrada,    Oldak,         3.92,    450,   800,      2, University of Colorado-Boulder, POPL, Autonomous Agents and Multi-Agent Systems
+George,       Yorath ,        3.40,      550,800,      0,      University of Rochester
+Roy,   Harmonn ,3.52,     730, 800,  2,      Arizona State University, SOSP, Journal of Functional Programming
+Mclaughlin ,Achina,  3.77, 300,  800,0,    Cornell University
+Hayes ,      Usman , 2.08, 380, 750,     2,     Washington University in St. Louis, FOCS, Journal of Cryptology
+Herrera ,      Essex ,2.62,     750,    800,  0,     Virginia Tech
+Holmes, Callum,       2.78,  270,     640,  0,    Dartmouth College
+Flowers,         Bayani ,        3.91,     650,   800,     0,      Arizona State University
+Turner,       Quest ,  3.19,330,  390,     2,      Iowa State University, SPIN, Data Mining and Knowledge Discovery
+Edwards ,     Aria,    3.70,    620,   800,    0, Texas A&M University-College Station
+Bailey,  Kiernan , 1.68,    350,      800, 2,     University of Maryland-College Park, TSE, ACM Multimedia
+Daniel,       Madrigal, 3.00,  420,  800,    0,    University of Rochester
+Holland, Pogisa,    3.30,  460,     650,    0,    Duke University
+Holmes,        Shabnam,    3.33, 510,   770,   0,   University of Texas-Austin
+Snyder,         Achina ,       3.84,   750,    800,0,   Lehigh University
+Swanson ,   Talasi,2.80,  760,800,      0,    Dartmouth College
+Hale,        Ulrike ,3.84,650,  800,   0,     Lehigh University
+Burgess ,   Hakan,1.66,     760,      800, 0,      Harvard University
+Baldwin ,       Inkem ,     4.00,     640,     800, 2,Ohio State University, CT-RSA, SIGGRAPH
+Gomez, Achina,        3.30, 650,      760,0,  University of Colorado-Boulder
+Stone,  Leda ,  2.72,630,     750, 0,   Lehigh University
+Taylor,  Kerah ,       3.20,590,730,0,    University of California-San Diego
+Gomez , Adao,  3.40,     590,  800,    0,Vanderbilt University
+Reeves ,      Karavi,       3.86,      590,  780,      1,Case Western Reserve University, International Journal of Computational Geometry and Applications
+Hall,      Karavi,   3.80,   720,   770, 0,     University of Texas-Austin
+Rodriquez,        Khalil ,     2.12,      500, 740,   0,   North Carolina State University
+Ford,         Allulah , 2.06,    650,     800,    1, Cornell University, ICLP
+Alvarado,       Langidrik,   2.54,690, 770,  0,Pennsylvania State University-University Park
+Ruiz ,   Adao ,       3.30,  440,     740, 0,Rice University
+Knight ,    Usman ,         3.64,   390,      790,     0,  University of California-Santa Barbara
+Doyle ,        Eben, 2.90,      740,770,   1,   University of Southern California, Higher-Order and Symbolic Computation
+Gibson ,     Bayani ,     2.10,   650, 800,   0,  Princeton University
+Cooper,    Nefertiti ,       3.60, 670,    800,     0,      Columbia University
+Barrett ,         Kerah ,       2.60,  550,    800,    1,     University of Virginia, IEEE Visualization
+Sanders , Brylea ,        3.70,600,    800, 2,  Pennsylvania State University-University Park, Computational Linguistics, AOSE
+Park,  Isa,         3.70,    500, 800,    0,      Rutgers State University-New Brunswick
+Gilbert,        Quillon,        3.63,320,      800,      0, Yale University
+Hale,Falthin,    3.10,   500,    800,    0, Virginia Tech
+Graham,         Ireri ,         2.80,     480,  750,1,     University of California-Los Angeles, JSSPP
+Ryan ,      Nanc,        2.32,     690,   750,     0,   Washington University in St. Louis
+Page,  Callum,  3.48,    460, 800,    2,Johns Hopkins University, Applications and Theory of Petri Nets, IEEE Transactions on Pattern Analysis and Machine Intelligence
+Lane,        Aria,       3.55,     330,     800,0,   Arizona State University
+Wallace,         Eithne,  2.80,   320,   760,  0,University of Texas-Austin
+Rodriguez,     Amiya,         2.36,    310, 760,      0,    University of California-Los Angeles
+Hudson ,       Rustam,   3.84,   430,710,0,   University of California-Santa Barbara
+Sparks ,Viveca,  1.88, 510,     800,      0, Yale University
+Berry ,    Redrick ,1.88, 350,   800,    2,Washington University in St. Louis, ACM Transactions on Graphics, Computational Geometry
+Smith ,     Piero ,  3.99,    720,  800,   0,Cornell University
+Wells ,      Jonavan ,   2.36,      680,  770,      0,Yale University
+Robinson ,   Adao ,        3.76,     640, 800,     0,   Texas A&M University-College Station
+Ball,      Rombert,         2.08,    430,750,  1,  Johns Hopkins University, ICCV
+Stevenson ,       Xuyen ,      3.96,     710,      790,     0,  Dartmouth College
+Wagner, Eben ,     3.76,590, 800,   0,   University of Virginia
+Stokes ,  Wayan,   3.41,    470,   800,     0,  Georgia Institute of Technology
+Bishop,Kiya,  2.96,  580, 800,      0, University of Florida
+Parsons,   Eunae ,      3.93,     340,   800,     0,  Columbia University
+Morales,     Cabell ,        1.96, 460, 790,     0,  University of Maryland-College Park
+Anderson ,       Eithne,         3.70,  490,   790,    0, Harvard University
+Washington ,       Galina ,         2.80,570,    800,0,      University of California-San Diego
+Rios,  Vadr ,     2.56,    600,    780,      0,    Iowa State University
+Ross,   Eunae,     3.85,    470,800,      2, Duke University, NACLP, ACM SIGOPS European Workshop
+Norton , Rangi ,    3.90,    570,800,1,    Massachusetts Institute of Technology, USENIX Winter
+Baker,  Cydee ,       3.75,     520,     800,      0,  Ohio State University
+Hunt,         Xuyen,        3.93,      470,      780,0,  Cornell University
+Wright ,Shabnam , 1.72,500,750,0,   Stanford University
+Murray,Isa ,      2.12, 690,  800,  0,   University of California-Berkeley
+Romero ,         Eunae,      3.06, 470, 780,  2, Rensselaer Polytechnic Institute, JSSPP, PODC
+Newton,        Eithne,   3.92,470,  800, 1,University of California-Santa Barbara, Middleware
+Massey,  Jerrine,       3.76,     350,     800,    0,      Arizona State University
+Saunders,     Sage,         3.30,     640,   800,0,     University of Southern California
+Shaw, Nefertiti,    3.48,   450,     750,     0,North Carolina State University
+Haynes ,  Redrick,    3.60,340,  800,    0,     Boston University
+Padilla,      Cabell ,       2.54,  560,  730,      1,    Carnegie Mellon University, Autonomous Agents and Multi-Agent Systems
+Hubbard, Saga ,      4.00,    600,800,     0,     University of California-Los Angeles
+Frazier ,   Amiya,    2.40,   750,  800,      0,   Cornell University
+Patrick ,Callum ,  3.45,      490,800,     0,   Carnegie Mellon University
+Lee ,  Brylea,     3.60,     600,    800, 0,     University of Illinois-Urbana-Champaign
+Castro,        Pike,      3.28,    720,      800,1,   Columbia University, OOPSLA
+Pierce ,        Shabnam,         3.45,   660,800,     2,   Texas A&M University-College Station, ICLP, ACM Computing Surveys
+Elliott , Delen,         3.00, 700, 800,    0, University of Colorado-Boulder
+Gross, Isa ,       2.54,     620,      800,     0,     Virginia Tech
+Hale ,      Salathiel,      2.54,     730,      800,      0,      California Institute of Technology
+Mccarthy ,Xuyen , 2.32,   650,  800,0,      University of California-Davis
+Mcbride,   Kincaid,       3.70,      0,     0, 0,     University of California-Irvine
+Erickson ,       Pike,   3.62,    650,     800,    0,  Harvard University
+Fuller,   Laban, 3.40,   590,   790,  2, Georgia Institute of Technology, International Journal of Computatinal Geometry and Applications, Computational Complexity
+Robinson,        Nefertiti,        3.00,   800, 790,     0,    California Institute of Technology
+Blair,   Jacaranda ,     2.52, 530,  800,0,Massachusetts Institute of Technology
+Page,       Mashequila, 3.90,     610,800,0,   University of Minnesota-Twin Cities
+Neal ,    Farida,         2.22,690, 800,   0,    University of Pennsylvania
+Barker ,        Xanthe ,       3.21,  350,  800, 0,    Rice University
+Swanson,         Keishin ,    3.81,    390,   690,      0,      California Institute of Technology
+Hansen ,     Inkem ,    2.24,   570,      800,  2,    University of Pennsylvania, SC, IEEE Transactions on Visualization and Computer Graphics
+Robbins,      Ha'ani,     3.60,520,   800,     0, California Institute of Technology
+Hale ,   Salathiel,    3.72,   620,800, 0,    Johns Hopkins University
+Olson ,        Tana ,  3.80,    700,      780,      1,     Virginia Tech, TACAS
+Harrison ,Eben,    3.36,      610,      760,    0, Purdue University-West Lafayette
+Bishop,       Nami,     3.48,  630,   800, 2,    University of California-San Diego, ICCV, POPL
+Cummings,        Peregrin,  1.82,640,   800,    0,    University of Illinois-Urbana-Champaign
+Porter,      Madrigal, 3.60,      390,   750, 0,  Massachusetts Institute of Technology
+Jennings,       Japheth ,         3.90, 660,  800,   0, Vanderbilt University
+Lindsey, Mashequila,        2.68,      690,  800,  2,Iowa State University, Journal of Cryptology, ICFP
+Castro,         Javid ,         3.08, 480,    800,     2, Harvard University, ACM Symposium on User Interface Software and Technology, TOCL
+Stevenson ,Stor , 3.46,  600, 800,2,      Virginia Tech, TODS, REX Workshop
+Guerrero,    Essex ,  3.70,   710,    800, 1,  Pennsylvania State University-University Park, Workshop on Parallel and Distributed Debugging
+Brown ,   Xanthe ,       3.70,      400,  790,0,      Rice University
+Taylor ,Dash , 3.95,    460,     800,      0,  Virginia Tech
+Jennings,  Talfryn ,   3.72,  390,     800,  0,      University of Pennsylvania
+Garner , Peregrin ,3.93, 480,  720,0,     Duke University
+Perkins,      Keveronique ,  3.90,      720,800,     0,      Massachusetts Institute of Technology
+Sullivan,    Tejini ,        3.50,640, 800, 2,    University of Florida, CT-RSA, Applications and Theory of Petri Nets
+Quinn,Cydee,        3.72,      620,    800,     2,     University of California-Irvine, KDD, Workshop on Workstation Operating Systems
+Parker ,        Jonavan ,       3.84,    340,      800,   1,      Carnegie Mellon University, SIGCOMM
+Stephens,    Sage,  2.72,560,800,      2,    Duke University, Middleware, PODC
+Chapman ,    Khalil,  3.18,550,      770,      0,Dartmouth College
+Cobb,        Yorath , 3.79,350,  740,     0,      Case Western Reserve University
+Paul,   Yoana,  2.08, 260,     800, 0,   University of California-Los Angeles
+Mccoy ,      Quest ,       3.55,     720,   690,     0,   Ohio State University
+Houston,        Quillon, 3.50,    520,    800,    0, University of Michigan-Ann Arbor
+Rowe ,   Xanthe ,   3.70,      510,    800,     0,    University of Michigan-Ann Arbor
+Benson,Mashequila ,       3.70,   460,    800,  1, California Institute of Technology, SODA
+Harris ,  Yoana ,       1.56, 530,     800,2, Northwestern University, Performance/SIGMETRICS Tutorials, USENIX Winter
+Porter ,  Mashequila ,       3.17, 490,   800,      1,    University of California-Berkeley, TOIS
+Washington,      Callum,3.00,     580,     790,0, University of Washington
+Grant,    Nami,        3.20,  360, 800,     0,University of Washington
+Mcdonald,      Jonzelle ,        3.58,      600,   800,    2,University of California-Irvine, ISLP, NACLP
+King,    Tau ,     3.87,    460,  800,      2, University of Minnesota-Twin Cities, ICML, SAS
+Bowers,         Allulah,3.85, 790,  800,  2,      University of Illinois-Urbana-Champaign, IEEE Journal on Selected Areas in Communications, ACM SIGOPS European Workshop
+Mccormick ,   Nefertiti ,       1.56,    720,  800,    2,      University of Southern California, Computational Geometry, LISP and Functional Programming
+Mcdaniel,         Jonavan,   3.90,    680,      800,     2,Iowa State University, SIGGRAPH, CSCW
+Kennedy,   Dainagon ,         3.20,   620,   800,   0,    University of Maryland-College Park
+Moran, Sanjay ,      3.40,      530,  800,   2, Georgia Institute of Technology, IWMM, PDIS
+Holt ,  Rustam,    2.22,    660,    800,     0,     Duke University
+Boyd,   Cydee,        3.53,  580,  800,   1,   University of Minnesota-Twin Cities, Computational Linguistics
+Cox,       Laban ,         3.65,    330,  750,      1,     Ohio State University, ECP
+Henderson ,        Nairn ,  3.80,    580,     800,     1,     Rutgers State University-New Brunswick, WWW5 / Computer Networks
+Perkins, Harmonn,         3.50,580,     770,   2,University of Texas-Austin, TAPSOFT, MOBICOM
+Weber,    Ireri,         3.02,380,790,  2,  Arizona State University, IEEE/ACM Transactions on Networking, ACL
+Jensen,    Tana ,3.64,   290,  770,      2, Rensselaer Polytechnic Institute, ESEC / SIGSOFT FSE, TLCA
+Fields,      Nami,3.26,  360,    800,    0,     University of Texas-Austin
+Perkins,  Pike ,      3.40,550,      800,    0,    Yale University
+Olson,     Rustam ,   3.92,     540,      800,  0, University of Florida
+Reeves,  Ireri,     2.44,     320,    760,  0,   University of Maryland-College Park
+Barber ,       Asha,      3.61, 630,  800,     0,Massachusetts Institute of Technology
+Hall,   Nairn,    3.62, 550, 800,     0,University of Colorado-Boulder
+Goodman ,       Saga ,        3.40,      550,   800,    0,  Rice University
+Waters ,    Quaintance,         3.75,    440,    800, 0, Cornell University
+Davidson ,        Kalah,  3.60, 680,800,    1,      University of Colorado-Boulder, IEEE Real Time Technology and Applications Symposium
+Hampton ,        Hakan ,    3.75,730,    790,      0,    University of Colorado-Boulder
+Kennedy ,       Ulrike, 2.40,     510,  770,   0,  California Institute of Technology
+Watts ,  Faracy,      3.52,      0,  0,     0,  University of Delaware
+Carter , Jacaranda,3.29,     340,  800,     0,      Johns Hopkins University
+Henderson ,   Blade ,  3.75,  580,800,   0,     Iowa State University
+Sharp,Zalika ,       3.50,     470,790,     0,University of Texas-Austin
+Conner,      Delen ,       3.80,570,   800,    0,     Yale University
+Olson ,        Sopan ,         3.91, 690,  780,1,  Iowa State University, LISP and Functional Programming
+Howard ,    Brogan,3.76,    580,800,      0,   Virginia Tech
+Waters,         Bida,3.63,460,  800,  2,  University of Illinois-Urbana-Champaign, Machine Learning, IJCAI
+Smith ,         Falthin ,     3.60,     510,  800,   1,    Stanford University, TISSEC
+Castro ,      Eunae,        3.44,      760,      800,     0, Columbia University
+Rivera,     Ulrike, 3.69,   430,  800,2,Vanderbilt University, OSDI, ICDCS
+Vargas ,     Japheth ,      3.80,520,      800,  0,  University of Colorado-Boulder
+Adkins,      Nairn,       3.59,   460,     800,      1,    Virginia Tech, Storage and Retrieval for Image and Video Databases
+Hart ,      Leda,    2.32,     550,     800,      0,      Pennsylvania State University-University Park
+Castro,       Viveca,     3.00, 680,      800,   0, Johns Hopkins University
+Reese ,        Piero,        3.14,     370,      800,  0,     Texas A&M University-College Station
+Hale,     Japheth,       1.64, 280,      800, 0,   Yale University
+Hart ,      Rangi,3.73,    320, 800,  0,University of California-Davis
+Obrien,    Xuyen ,   3.20, 660,  800,      2,University of Michigan-Ann Arbor, AIPS, VLDB Journal
+Zimmerman ,      Kerah,       3.64,  620, 800,     2,      University of Southern California, Information Hiding, TAPSOFT
+Hampton ,     Madrigal , 3.30,  510,     800,   0,Dartmouth College
+Baldwin,         Pike, 3.57,   690, 800,  2, University of California-Santa Barbara, Advances in Petri Nets, AAAI/IAAI
+Gray,     Kalah ,         2.64,  540,    800,     2, Carnegie Mellon University, ICCL, SIGCOMM
+Berry, Isa, 3.90,    510,     800,     1, Northwestern University, Performance/SIGMETRICS Tutorials
+Weber ,        Bayani ,   2.76,    500,     800,      0,Iowa State University
+Lopez,         Laban ,       3.60,  750,770,  1,  Iowa State University, IWMM
+Rowe , Ireri ,       2.04,     580,  800,      1,University of California-Irvine, IEEE Symposium on Security and Privacy
+Hubbard, Pogisa,        3.90,  640, 800,     0, Texas A&M University-College Station
+Long,      Kiya,3.08,510,   800,   0,Ohio State University
+White ,Kalah,    3.70,   500,    800,     0,     University of Wisconsin-Madison
+Schwartz,      Farida,   3.30,      580,     790,  1,  University of Texas-Austin, PCRCW
+Francis, Madrigal ,3.00,     700,   790,  0, University of Illinois-Urbana-Champaign
+Quinn, Keala ,   3.00,  540,  800,      0,    Texas A&M University-College Station
+Henry ,        Sopan , 3.45,   720,   730,     0, Case Western Reserve University
+Aguilar,         Brogan ,   3.92,    700,    800,      0,Virginia Tech
+Maldonado ,         Rangi,      3.21,360,    800,   0,  North Carolina State University
+Lynch, Jonavan ,   3.12,     550,    800,      1,  University of Michigan-Ann Arbor, ESOP
+Floyd,       Laban,       1.56, 740, 800,     0,  University of Pennsylvania
+Briggs,        Talfryn ,   3.00,   420,     800, 0,  Boston University
+Carroll ,Brogan,      3.68,  740,      800,      2,   University of Wisconsin-Madison, HPCA, JICSLP
+Hicks,       Amiya ,    1.74,    800, 800,     2,      University of Virginia, ACM Symposium on User Interface Software and Technology, LICS
+Estrada,       Madrigal ,      3.60,      520,      790,   0,    Rensselaer Polytechnic Institute
+Nelson ,     Talasi,     3.55,   670,  790,      2,  University of Florida, SPAA, CHI
+Swanson ,        Tana, 2.72, 580,   800,0,    Massachusetts Institute of Technology
+Higgins ,      Nefertiti,     3.90,     0,0,     0,   Georgia Institute of Technology
+Drake,   Oldak ,         3.78,   390,    800,     0, University of Minnesota-Twin Cities
+Gutierrez ,         Langidrik ,         1.88,  490,   800,  0,    University of California-Berkeley

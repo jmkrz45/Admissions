@@ -1,0 +1,219 @@
+OSDI, 3.31
+USENIX Symposium on Internet Technologies and Systems, 3.23
+PLDI, 2.89
+SIGCOMM, 2.79
+MOBICOM, 2.76
+ASPLOS, 2.70
+USENIX Annual Technical Conference, 2.64
+TOCS, 2.56
+SIGGRAPH, 2.53
+JAIR, 2.45
+SOSP, 2.41
+MICRO, 2.31
+POPL, 2.26
+PPOPP, 2.22
+Machine Learning, 2.20
+25 Years ISCA, 2.19
+WWW8 / Computer Networks, 2.17
+Computational Linguistics, 2.16
+JSSPP, 2.15
+VVS, 2.14
+FPCA, 2.12
+LISP and Functional Programming, 2.12
+ICML, 2.12
+Data Mining and Knowledge Discovery, 2.08
+SI3D, 2.06
+ICSE - Future of SE Track, 2.05
+IEEE/ACM Transactions on Networking, 2.05
+OOPSLA/ECOOP, 2.05
+WWW9 / Computer Networks, 2.02
+Workshop on Workstation Operating Systems, 2.01
+Journal of Computer Security, 2.00
+TOSEM, 1.99
+Workshop on Parallel and Distributed Debugging, 1.99
+Workshop on Hot Topics in Operating Systems, 1.99
+WebDB, 1.98
+WWW5 / Computer Networks, 1.97
+Journal of Cryptology, 1.97
+CSFW, 1.96
+ECOOP, 1.95
+Evolutionary Computation, 1.94
+TOPLAS, 1.92
+SIGSOFT FSE, 1.88
+CAV, 1.88
+AAAI/IAAI, 1.87
+PODS, 1.86
+Artificial Intelligence, 1.85
+NOSSDAV, 1.85
+OOPSLA, 1.84
+ACM Conference on Computer and Communications Security, 1.82
+VLDB Journal, 1.81
+TODS, 1.81
+USENIX Winter, 1.80
+HPCA, 1.79
+LICS, 1.79
+JLP, 1.78
+WWW6 / Computer Networks, 1.78
+ICCV, 1.78
+IEEE Real-Time Systems Symposium, 1.78
+AES Candidate Conference, 1.77
+KR, 1.76
+TISSEC, 1.76
+ACM Conference on Electronic Commerce, 1.75
+TOIS, 1.75
+PEPM, 1.74
+SIGMOD Conference, 1.74
+Formal Methods in System Design, 1.74
+Mobile Agents, 1.73
+REX Workshop, 1.73
+NMR, 1.73
+Computing Systems, 1.72
+LOPLAS, 1.72
+STOC, 1.69
+Distributed Computing, 1.69
+KDD, 1.68
+Symposium on Testing, 1.65
+Software Development Environments , 1.64
+SIAM J. Comput., 1.64
+CRYPTO, 1.63
+Multimedia Systems, 1.62
+ICFP, 1.62
+Lisp and Symbolic Computation, 1.61
+ECP, 1.61
+CHI, 1.61
+ISLP, 1.60
+ACM Symposium on User Interface Software and Technology, 1.59
+ESOP, 1.58
+ECCV, 1.58
+ACM Transactions on Graphics, 1.57
+CSCW, 1.57
+AOSE, 1.57
+ICCL, 1.57
+Journal of Functional Programming, 1.57
+RTSS, 1.57
+ECSCW, 1.56
+TOCHI, 1.56
+ISCA, 1.56
+SIGMETRICS/Performance, 1.56
+IWMM, 1.55
+JICSLP, 1.54
+Automatic Verification Methods for Finite State Systems, 1.54
+WWW, 1.54
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 1.54
+AIPS, 1.53
+IEEE Transactions on Visualization and Computer Graphics, 1.53
+VLDB, 1.52
+Symposium on Computational Geometry, 1.51
+FOCS, 1.51
+ATAL, 1.51
+SODA, 1.51
+PPCP, 1.50
+AAAI, 1.49
+COLT, 1.49
+USENIX Summer, 1.49
+Information and Computation, 1.48
+Java Grande, 1.47
+ISMM, 1.47
+ICLP/SLP, 1.47
+SLP, 1.45
+Structure in Complexity Theory Conference, 1.45
+IEEE Transactions on Multimedia, 1.45
+Rules in Database Systems, 1.44
+ACL, 1.44
+CONCUR, 1.44
+SPAA, 1.44
+J. Algorithms, 1.42
+DOOD, 1.42
+ESEC / SIGSOFT FSE, 1.41
+ICDT, 1.41
+Advances in Petri Nets, 1.41
+ICNP, 1.40
+SSD, 1.39
+INFOCOM, 1.39
+IEEE Symposium on Security and Privacy, 1.39
+Cognitive Science, 1.38
+TSE, 1.38
+Storage and Retrieval for Image and Video Databases, 1.38
+NACLP, 1.38
+SIGMETRICS, 1.38
+JACM, 1.37
+PODC, 1.37
+International Conference on Supercomputing, 1.36
+Fast Software Encryption, 1.35
+IEEE Visualization, 1.35
+SAS, 1.35
+TACS, 1.35
+International Journal of Computer Vision, 1.33
+JCSS, 1.32
+Algorithmica, 1.31
+TOCL, 1.30
+Information Hiding, 1.30
+Journal of Automated Reasoning, 1.30
+PCRCW, 1.29
+Journal of Logic and Computation, 1.29
+KDD Workshop, 1.28
+ML, 1.28
+ISSTA, 1.28
+EUROCRYPT, 1.27
+PDIS, 1.27
+Hypertext, 1.27
+IWDOM, 1.27
+PARLE, 1.26
+Hybrid Systems, 1.26
+American Journal of Computational Linguistics, 1.26
+SPIN, 1.25
+ICDE, 1.25
+FMCAD, 1.25
+SC, 1.25
+EDBT, 1.25
+Computational Complexity, 1.25
+International Journal of Computatinal Geometry and Applications, 1.25
+ESORICS, 1.25
+IJCAI, 1.25
+TACAS, 1.24
+Ubicomp, 1.24
+MPC, 1.24
+AWOC, 1.24
+TLCA, 1.23
+Emergent Neural Computational Architectures Based on Neuroscience, 1.23
+CADE, 1.22
+PROCOMET, 1.22
+ACM Multimedia, 1.22
+IEEE Journal on Selected Areas in Communications, 1.22
+Science of Computer Programming, 1.22
+LCPC, 1.22
+CT-RSA, 1.22
+ICLP, 1.21
+Financial Cryptography, 1.21
+DBPL, 1.21
+Artificial Life, 1.20
+Higher-Order and Symbolic Computation, 1.19
+TKDE, 1.19
+ACM Computing Surveys, 1.19
+Computational Geometry, 1.18
+Autonomous Agents and Multi-Agent Systems, 1.18
+EWSL, 1.18
+Learning for Natural Language Processing, 1.18
+TAPOS, 1.17
+TAPSOFT, 1.17
+International Journal of Computational Geometry and Applications, 1.17
+IEEE Transactions on Parallel and Distributed Systems, 1.17
+Heterogeneous Computing Workshop, 1.16
+Distributed and Parallel Databases, 1.16
+DAC, 1.16
+ICTL, 1.16
+Performance/SIGMETRICS Tutorials, 1.16
+IEEE Computer, 1.15
+IEEE Real Time Technology and Applications Symposium, 1.15
+ACM Workshop on Role-Based Access Control, 1.15
+WCRE, 1.14
+Applications and Theory of Petri Nets, 1.14
+ACM SIGOPS European Workshop, 1.14
+ICDCS, 1.14
+Mathematical Structures in Computer Science, 1.14
+Workshop on the Management of Replicated Data, 1.13
+PPSN, 1.13
+Middleware, 1.13
+OODBS, 1.12
+Electronic Colloquium on Computational Complexity, 1.12
+UML, 1.12

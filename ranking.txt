@@ -1,0 +1,25 @@
+1. Massachusetts Institute of Technology
+2. Stanford University
+3. University of California-Berkeley
+4. Georgia Institute of Technology
+5. University of Illinois-Urbana-Champaign
+6. Purdue University-West Lafayette
+7. University of Michigan-Ann Arbor
+8. Carnegie Mellon University
+9. University of Southern California
+10. California Institute of Technology
+11. Cornell University
+12. University of California-San Diego
+13. University of Texas-Austin
+14. Texas A&M University-College Station
+15. University of California-Los Angeles
+16. University of Maryland-College Park
+17. University of Wisconsin-Madison
+18. Princeton University
+19. Pennsylvania State University-University Park
+20. Columbia University
+21. Harvard University
+22. Johns Hopkins University
+23. Northwestern University
+24. University of California-Santa Barbara
+25. University of Washington
